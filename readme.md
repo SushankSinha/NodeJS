@@ -91,18 +91,18 @@ Each folder contains:
 
 ## Progress Tracker
 
-| Section             | Status           |
-|---------------------|------------------|
-| Introduction        | 🚧 In Progress  |
-| Basics              | ⏳ Upcoming     |
-| Command Line        | ⏳ Upcoming     |
-| Modules & npm       | ⏳ Upcoming     |
-| Event Loop          | ⏳ Upcoming     |
-| Async Programming   | ⏳ Upcoming     |
-| Networking          | ⏳ Upcoming     |
-| File System         | ⏳ Upcoming     |
-| Core Modules        | ⏳ Upcoming     |
-| Miscellaneous       | ⏳ Upcoming     |
+| Section             | Status            |
+|---------------------|-------------------|
+| Introduction        | ✅ Completed     |
+| Basics              | ✅ Completed     |
+| Command Line        | ✅ Completed     |
+| Modules & npm       | 🚧 In Progress   |
+| Event Loop          | ⏳ Upcoming      |
+| Async Programming   | ⏳ Upcoming      |
+| Networking          | ⏳ Upcoming      |
+| File System         | ⏳ Upcoming      |
+| Core Modules        | ⏳ Upcoming      |
+| Miscellaneous       | ⏳ Upcoming      |
 -----------------------------------------
 
 ## Acknowledgements
