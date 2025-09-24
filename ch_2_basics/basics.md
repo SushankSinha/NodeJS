@@ -9,7 +9,7 @@ Quick Node.js guides for CLI execution, graceful shutdowns, and environment vari
   - [2. Exit Node.js Programs](#2-exit-nodejs-programs)
     - [Immediate Exit](#immediate-exit)
     - [Graceful Server Shutdown](#graceful-server-shutdown)
-  - [3. Read Environment Variables](#3-read-environment-variables)
+    - [3. Read Environment Variables](#3-read-environment-variables)
     - [Set before running](#set-before-running)
       - [NODE\_ENV=production node app.js](#node_envproduction-node-appjs)
 
